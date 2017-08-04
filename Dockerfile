@@ -1,4 +1,4 @@
-FROM nimerritt/did-netdebug
+FROM nimerritt/did-base
 MAINTAINER Nicholas Merritt <nimerritt@gmail.com>
 
 SHELL ["/bin/bash", "-c"]
